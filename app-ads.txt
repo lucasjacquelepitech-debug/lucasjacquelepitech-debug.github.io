@@ -1,2 +1,1 @@
-# Authorized ad sellers for TiPixAI apps.
-# Lines from AppLovin (MAX > app-ads.txt) and AdMob (Apps > app-ads.txt) will be added here.
+google.com, pub-8205453976426704, DIRECT, f08c47fec0942fa0
